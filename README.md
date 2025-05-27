@@ -17,3 +17,6 @@ A <a href="https://streamlit.io/" target="_blank">Streamlit</a> web application 
 
 > [Startup Analysis](https://startup-dashboard-q7x5h9fmtdyuxmd5ivkkns.streamlit.app/)
 -->
+
+Author 
+Arnab Ghosh(https://github.com/Arnab-Ghosh7)
